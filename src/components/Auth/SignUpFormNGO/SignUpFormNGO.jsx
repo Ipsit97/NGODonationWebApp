@@ -37,7 +37,7 @@ function SignUpForm() {
             sessionStorage.setItem("userType", "NGO");
             })
             .catch((error) => {
-            console.error('Error saving data to Firebase:', error);
+            alert("Error saving data");
             });
 
         })
