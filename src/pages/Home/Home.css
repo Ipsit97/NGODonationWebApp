@@ -1,0 +1,32 @@
+.box.custom-box {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .btn.add-data-btn
+  {
+    background-color: rgb(57, 56, 56);
+    color: white;
+    margin-top: 10%;
+  }
+  
+  .btn.add-data-btn:hover
+  {
+    background-color: white;
+    color: black;
+  }
+  
+  td {
+    text-align: left;
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  

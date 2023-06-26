@@ -1,0 +1,64 @@
+.custom-container {
+    height: 15vh;
+    margin: 0;
+    padding-top: 0;
+  }
+
+.truffle-health-logo
+{
+    display: flex;
+    align-items: center;
+}
+  
+.logo-img
+{
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    width: 25vh;
+    height: 20vh;
+    margin-right: 3vh;
+}  
+
+.logo-container
+{
+    display: flex;
+    align-items: center;
+}
+
+.logo-text
+{
+    font-size: 24px;
+}
+
+.weight-bold {
+    font-weight: 700;
+  }
+
+.gray-color
+{
+    color: white;
+}  
+
+.custom-text-links .nav-link
+{
+    font-size: 15px;
+    color: white;
+    margin-left: 6vh;  
+}
+
+.custom-text-links .nav-link:hover
+{
+    background-color: white;
+    color:black;
+    border-radius: 8px;
+    padding: 12px 15px;  
+}
+.custom-text-links .nav-link.active-style
+{
+  background-color: white;
+  color:black;
+  border-radius: 8px;
+  padding: 12px 15px; 
+}
+
