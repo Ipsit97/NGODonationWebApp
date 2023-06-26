@@ -25,7 +25,7 @@ function Header() {
     <nav className="navbar navbar-expand-lg navbar-dark custom-container" style={{ background: '#202020'}}>
       <div className="container">
        <div className='truffle-health-logo'>
-            <NavLink className="navbar-brand" to="/" >
+            <NavLink className="navbar-brand" to="" >
                 <div className="logo-container">    
                     <img src="/images/logo-ngo.png" alt="Logo" className="logo-img"/>
                     <div className="weight-bold gray-color logo-text"> DonationMadeEasy</div>

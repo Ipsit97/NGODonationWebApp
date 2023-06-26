@@ -27,8 +27,7 @@ function LoginForm() {
             navigateToHome('/homeCustomer');
             })
             .catch((error) => {
-            alert("Error logging in, please try again!");
-            console.error('Error connecting to the server:', error);
+            // alert("Error logging in, please try again!");
             setErrorMsg(error);
             });
     };

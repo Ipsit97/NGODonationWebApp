@@ -1,9 +1,5 @@
 import axios from 'axios';
 
-
-
-
-
 export function signUpAuth(email, password) {
 
     const postData = {

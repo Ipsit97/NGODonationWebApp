@@ -73,7 +73,6 @@ function Form() {
                     navigateToSummary('/summary');
                     })
                     .catch((error) => {
-                    console.error('Error updating data to Firebase:', error);
                     alert(error);
                     });
             }
